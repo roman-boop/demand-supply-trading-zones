@@ -11,9 +11,8 @@ from pybit.unified_trading import HTTP
 
 # ================= CONFIG =================
 
-BOT_TOKEN = "8639797310:AAGgSQQMkM1lTMLjKAakBS_S5FajqDAlSQo"
-CHAT_ID = "386243966"
-#CHAT_ID = "949808523"
+BOT_TOKEN = ""
+CHAT_ID = ""
 ZONE_TF = "240"              # Таймфрейм зон (настраиваемый)
 ZONE_LIMIT = 1500             # Количество свечей
 ATR_PERIOD = 100               # Период ATR
